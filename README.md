@@ -1,4 +1,4 @@
-# John Marshall “Upryzin” Curry  
+# John “Upryzin” Curry  
 ### CEO • Upryzin Productions  
 ### Music | Media | Marketing | Creative Systems Architecture  
 
