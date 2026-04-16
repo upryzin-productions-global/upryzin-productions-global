@@ -1,16 +1,33 @@
-## Hi there 👋
+# John Marshall “Upryzin” Curry  
+### CEO • Upryzin Productions  
+### Music | Media | Marketing | Creative Systems Architecture  
 
-<!--
-**upryzin-productions-global/upryzin-productions-global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub. I build systems that connect creativity, technology, and identity.  
+My work spans music production, digital branding, financial telemetry, and compliance frameworks for creative enterprises.
 
-Here are some ideas to get you started:
+## 🔥 What I Do  
+- 🎵 Music production & artist development  
+- 🎬 Media creation & digital storytelling  
+- 🧩 Identity architecture for creators  
+- 📊 Financial telemetry & analytics  
+- 🛠️ Creative operations & compliance systems  
+- 🌐 Brand ecosystems for independent artists  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Active Projects  
+- **Upryzin Identity Architecture**  
+- **Upryzin Financial Telemetry**  
+- **Upryzin Productions Compliance**  
+- **Upryzin Global Systems**
+
+## 🌍 Connect With Me  
+- Instagram: @upryzin  
+- SoundCloud: UPRYZIN PRODUCTIONS  
+- Spotify: Upryzin  
+- Website: upryzin.com  
+
+## 💡 Philosophy  
+Creativity is a system.  
+Identity is architecture.  
+Music is the heartbeat that ties it all together.
+
+Let’s build something that lasts.
